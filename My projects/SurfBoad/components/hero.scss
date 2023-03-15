@@ -1,0 +1,38 @@
+$colorWhite:#fff;
+
+.hero{
+    background: url(../img/arnaud-mesureur-17OxKyThYPo-unsplash\ 1.svg) center top  no-repeat;
+    color: $colorWhite;
+    margin-bottom: 100px;
+    height: 652px;
+   
+
+}
+.hero__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+
+.hero__title-section{
+    width: 50%;
+    .hero__main-title{
+        font-size: 48px;
+        font-weight: bold;
+        
+        text-transform: uppercase;
+    }
+    .hero__title-desc{
+        font-size: 21px;
+        font-weight: 400;
+        margin-bottom: 60px;
+        padding-right: 10%;
+    }
+}
+
+
+
+
+

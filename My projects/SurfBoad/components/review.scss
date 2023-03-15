@@ -1,0 +1,35 @@
+.review__content{
+    background: #F8FAF9;
+    padding: 42px;
+    .review__list{
+        display: flex;
+    }
+    
+}
+
+.review__img{
+    margin-right: 40px;
+}
+.review__title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+    color: #292929;
+    margin-bottom: 32px;
+}
+
+.review__title-avatar{
+    font-weight: bold;
+    font-size: 27px;
+    color: #292929;
+    margin-bottom: 16px;
+}
+
+.review__paragraph{
+    margin-bottom: 26px;
+}
+
+.review__name{
+    color: #292929;
+    font-weight: 500;
+}

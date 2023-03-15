@@ -1,0 +1,21 @@
+.features__icons-section{
+    padding-bottom: 66px;
+    
+    .features{
+        display: flex;
+        align-items: center;
+        .features__item{
+            display: flex;
+            align-items: center;
+            margin-right: 33px;
+            &:last-child{
+                margin-right: 0;
+            }
+        }
+        .feature__icon{
+            margin-right: 15px;
+        }
+       
+           
+    }
+    }

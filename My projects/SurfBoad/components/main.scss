@@ -1,0 +1,19 @@
+$contentWidth: 950px;
+$fontSize: 18px;
+$color:#F8FAF9;
+$colorWhite:#fff;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300;400;500;700&display=swap');
+@import url(./normalize.css);
+@import "layout.scss";
+@import "hero.scss";
+@import "header.scss";
+@import "features.scss";
+@import "feature.scss";
+@import "btn.scss";
+@import "section.scss";
+@import "benefits.scss";
+@import "headline.scss";
+@import  "benefit.scss";
+@import "review.scss";
